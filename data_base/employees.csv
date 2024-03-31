@@ -1,0 +1,101 @@
+department,name,date_of_birth,age,hiring_date
+Marketing,Kevin Young,October 29,29,2021-09-04
+Finance,Roger Hart,March 17,25,2022-08-16
+Research and Development,Taylor Cervantes,October 19,40,2019-05-05
+Research and Development,Chad Gibson,May 11,30,2020-09-03
+Distribution,Keith White,January 27,27,2023-11-23
+Administration,Anne Walker,October 06,34,2016-04-09
+Marketing,Pam Kaufman,February 25,43,2015-06-17
+Administration,Evan Harris,May 11,35,2019-04-26
+Security,Aaron Sanchez,January 24,33,2020-09-13
+Human Resources,Karen Frost,October 01,23,2022-08-29
+Sales,Ronald Wilson,May 28,41,2018-06-13
+Design,Shawn Haynes,January 20,41,2016-01-05
+Design,Claudia Snyder,April 07,26,2020-04-15
+Sales,Frank Hatfield,September 01,42,2016-08-24
+Distribution,Sarah Valencia,May 07,23,2024-01-28
+Administration,Alicia Roth,November 24,24,2016-09-25
+Marketing,Jason Murphy,December 08,33,2020-06-24
+Marketing,Sydney Baxter,March 15,44,2016-01-13
+Sales,Brett Bell,November 24,27,2019-07-21
+Administration,Mary Thomas,November 22,45,2017-02-06
+Distribution,Fred Johnson,June 24,22,2018-03-10
+Production Engineering,Felicia Jensen,February 12,42,2021-10-07
+Research and Development,Gregory Vang,November 02,24,2016-11-06
+Finance,Michael Skinner,June 25,38,2022-01-15
+Security,Dana Gardner,July 18,39,2021-02-23
+Administration,Gabriel Jordan,November 07,42,2019-08-18
+Marketing,Dennis Raymond,March 29,35,2023-02-08
+Security,Jeremy Levy,February 24,27,2018-08-31
+Administration,Jose Gonzalez,April 30,25,2023-11-23
+Distribution,Travis Johns,April 28,33,2023-03-03
+Security,Carolyn Adams,February 26,28,2023-02-19
+Finance,Jessica Price,December 27,29,2017-05-20
+Human Resources,Fernando Jones,March 30,38,2016-05-08
+Human Resources,Curtis Payne,June 30,41,2023-07-23
+Marketing,Anthony Miller,February 12,34,2015-08-18
+Sales,Rodney King,June 13,33,2021-11-09
+Marketing,Brian Mcclain,February 01,30,2019-01-23
+Security,Nathaniel Kelley,July 08,26,2017-09-10
+Human Resources,Kathleen Poole,April 28,23,2020-11-08
+Distribution,Jeffrey Hunter,June 16,34,2020-07-13
+Design,Lori Berg,May 05,35,2021-04-19
+Distribution,Jaime Lawrence,October 07,41,2022-05-31
+Sales,Amanda Randall,January 13,22,2023-09-20
+Marketing,Peter Reeves,February 09,24,2021-06-17
+Administration,David York,August 23,36,2018-11-07
+Production Engineering,Jessica Vargas,April 08,25,2021-11-28
+Production Engineering,Mrs. Jody Lewis MD,November 30,43,2016-09-27
+Sales,Megan Booth,March 04,41,2022-01-14
+Human Resources,Scott Taylor,March 30,22,2016-07-09
+Sales,Michael Webb,July 12,32,2018-07-27
+Human Resources,Scott Austin,February 12,32,2015-12-07
+Design,Tina Lyons,November 17,34,2015-07-13
+Distribution,Brian Smith MD,January 28,30,2020-01-27
+Sales,Samantha Thompson,September 29,29,2015-12-19
+Finance,Theresa Baker,November 08,33,2017-04-19
+Human Resources,Selena Travis,December 13,22,2024-01-30
+Distribution,Vincent Woodward MD,September 12,39,2016-11-15
+Finance,Breanna Shaw,February 12,40,2018-01-31
+Design,Kelly Bishop,November 25,43,2016-02-21
+Sales,Brian Norris,February 17,27,2017-06-09
+Sales,Patricia Miller,December 17,24,2020-02-08
+Marketing,Katherine Rubio,March 03,27,2023-02-16
+Administration,Clayton Young,February 25,23,2020-05-01
+Sales,Angel Tucker MD,June 29,45,2018-08-28
+Marketing,Lindsay Choi,April 29,34,2022-03-02
+Marketing,Susan Reyes,November 11,32,2021-09-08
+Design,Janice Garcia,July 10,41,2017-01-07
+Production Engineering,David Yates DDS,February 15,28,2018-07-24
+Human Resources,Peggy Haynes,January 11,45,2023-04-12
+Security,Victoria Smith,February 09,37,2020-11-05
+Human Resources,Robert Ferguson,May 10,30,2019-01-01
+Human Resources,Mia Costa,January 01,28,2017-04-06
+Human Resources,Anthony Holmes,April 16,40,2015-09-30
+Human Resources,Anthony Hopkins,February 26,43,2018-09-13
+Finance,Mrs. Jennifer Velasquez,October 07,31,2019-04-21
+Distribution,Linda Turner,August 30,31,2020-11-05
+Marketing,Louis Roberts,October 04,29,2016-11-22
+Research and Development,Jeremy Brown,September 14,22,2016-10-04
+Production Engineering,Austin Hudson,August 14,32,2022-04-27
+Research and Development,Desiree Bean,March 21,40,2019-07-28
+Finance,Angie Jackson,March 18,30,2021-05-27
+Distribution,Jeffrey Jones,February 28,35,2016-04-04
+Security,Jennifer Kim,September 12,29,2017-07-13
+Production Engineering,Joshua Flynn,February 26,40,2021-10-10
+Administration,Margaret Roach,June 18,24,2017-10-15
+Distribution,Zachary Brown,April 07,31,2016-03-30
+Administration,Jeffrey Smith,August 18,34,2017-01-17
+Finance,Jordan Casey,December 30,34,2016-09-05
+Research and Development,Nicole Rogers,July 31,42,2016-03-25
+Research and Development,Jennifer Miller,August 21,26,2023-10-20
+Research and Development,Cindy Arellano,January 17,32,2018-04-15
+Administration,David Smith,September 23,31,2018-01-07
+Security,William Ward,May 10,32,2021-03-27
+Security,Alexander Gonzalez,August 04,25,2022-02-12
+Distribution,Pamela Wood,October 07,38,2016-10-04
+Marketing,Eric Blackburn,June 02,38,2016-07-05
+Distribution,Andrew Smith,November 27,40,2015-12-22
+Security,Scott Mitchell,September 14,32,2019-04-01
+Research and Development,Miss Tina Conner,March 22,32,2020-11-08
+Human Resources,Samantha Harris,December 11,22,2022-10-20
